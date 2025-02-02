@@ -1,2 +1,2 @@
 # DaisyBell
-A poor rendition of "Daisy Bell" in PowerShell
+A  rendition of "Daisy Bell" in PowerShell
